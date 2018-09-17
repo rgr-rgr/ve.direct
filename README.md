@@ -1,2 +1,2 @@
 # ve.direct
-Interface to ve.direct protocoll in php
+Interface to ve.direct protocol in php
